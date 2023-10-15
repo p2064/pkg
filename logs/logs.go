@@ -1,5 +1,6 @@
 package logs
 
+/*
 import (
 	"log"
 	"os"
